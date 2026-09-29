@@ -1,0 +1,6 @@
+{
+  "name": "LIFE.EXE - 3D Life Simulation",
+  "description": "A stylized 3D third-person life simulation game about navigating university life, trade-offs, and decisions in New Day City.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
